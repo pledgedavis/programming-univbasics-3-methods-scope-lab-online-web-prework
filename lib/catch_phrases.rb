@@ -21,8 +21,8 @@ def link
   puts phrase = "It's Dangerous To Go Alone! Take This."
 end
 
-def any_phrase 
-  puts phrase = "Do A Barrel Roll!"
+def toadstool
+  puts any_phrase = "Do A Barrel Roll!"
 end 
 
 
