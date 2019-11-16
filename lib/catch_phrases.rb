@@ -22,10 +22,8 @@ def link
 end
 
 def any_phrase
-  puts status = "takes in an argument and puts out the catch phrase"
-  puts phrase = "Do A Barrel Roll!"
+  puts any_phrase = "Do A Barrel Roll!"
 end 
-end
 
 
 
